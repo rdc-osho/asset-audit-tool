@@ -1,0 +1,6 @@
+asset_tag,device_type,os,os_version,assigned_to,status,last_audit_date,leaver_date
+LT-001,MacBook Pro,macOS,15.1,A. Patel,in use,2026-09-30,
+LT-002,MacBook Air,macOS,13.6,J. Smith,in use,2026-04-02,
+LT-003,ThinkPad X1,Windows,10.0,R. Jones,in use,2026-09-12,2026-10-01
+LT-004,MacBook Pro,macOS,14.5,,in use,2026-08-20,
+LT-005,Dell Latitude,Windows,11.0,Spare,returned,2026-10-05,
